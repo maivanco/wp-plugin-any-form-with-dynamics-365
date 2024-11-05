@@ -1,0 +1,8 @@
+{
+    "name": "vendor/dynamics-365-integration",
+    "autoload": {
+        "psr-4": {
+            "ITCDynamics365\\": "Dynamics365/"
+        }
+    }
+}
